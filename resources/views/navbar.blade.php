@@ -23,10 +23,10 @@
                     <a href="/post">Sample Post</a>
                 </li>
                 <li>
-                    <a href="/contact">Contact</a>
+                    <a href="/ticket">Ticket</a>
                 </li>
                 <li>
-                    <a href="/ticket">Contact</a>
+                    <a href="/contact">Contact</a>
                 </li>
             </ul>
         </div>
