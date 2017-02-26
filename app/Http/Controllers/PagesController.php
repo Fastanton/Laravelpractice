@@ -24,4 +24,8 @@ class PagesController extends Controller
     {
         return view('post');
     }
+    public function ticket()
+    {
+        return view('tickets.create');
+    }
 }

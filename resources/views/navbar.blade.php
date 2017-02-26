@@ -25,6 +25,9 @@
                 <li>
                     <a href="/contact">Contact</a>
                 </li>
+                <li>
+                    <a href="/ticket">Contact</a>
+                </li>
             </ul>
         </div>
         <!-- /.navbar-collapse -->
