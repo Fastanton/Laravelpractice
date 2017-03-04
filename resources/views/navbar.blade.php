@@ -26,7 +26,7 @@
                     <a href="/ticket">Ticket</a>
                 </li>
                 <li>
-                    <a href="/contact">Contactas</a>
+                    <a href="/contact">Contactuuuas</a>
                 </li>
             </ul>
         </div>
